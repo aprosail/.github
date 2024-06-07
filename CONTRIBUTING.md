@@ -30,6 +30,14 @@ because once fork and pull request,
 your GitHub username will be automatically
 added as the prefix of the branch name.
 
+```sh
+# Fork and PR:
+git checkout -b what-you-are-doing
+
+# Organization member direct PR:
+git checkout -b your-name/what-you-are-doing
+```
+
 ## Add Your Name
 
 Once contributing to the repo, you can add your name
@@ -54,11 +62,15 @@ The name format should follow the rules listed below:
 
 For example (those names and emails are just for example):
 
-```txt
-Ahmed Mohammed (أحمد محمد) <ahmed@example.com>
-Ivan Smirnov (Иван Смирнов) <ivan@example.com>
-John Smith <john@example.com>
-Jurgen Muller (Jürgen Müller) <jurgen@example.com>
-Sato Jiro (佐藤次郎) <sato2@example.com>
-Zhang BeiHai (章北海) <zhang3@example.com>
+```md
+- Contributor(xxx)
+
+  - Ahmed Mohammed (أحمد محمد) `<ahmed@example.com>`
+  - Ivan Smirnov (Иван Смирнов) `<ivan@example.com>`
+  - Jurgen Muller (Jürgen Müller) `<jurgen@example.com>`
+  - Sato Jiro (佐藤次郎) `<sato2@example.com>`
+  - Zhang BeiHai (章北海) `<zhang3@example.com>`
+
+- Contributor(xxx)
+  - John Smith `<john@example.com>`
 ```
