@@ -59,6 +59,7 @@ The name format should follow the rules listed below:
 2. Add your committing email address wrapped in `<>` as suffix.
 3. (Optional) you can also add your name
    in other languages wrapped in `()` between them.
+4. You may use your nick name (not real name), but please make the email real.
 
 For example (those names and emails are just for example):
 
@@ -73,4 +74,5 @@ For example (those names and emails are just for example):
 
 - Contributor(xxx)
   - John Smith `<john@example.com>`
+  - Your Nickname `<real-email@example.com>`
 ```
